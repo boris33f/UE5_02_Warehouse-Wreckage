@@ -699,3 +699,14 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.10.05-22.37.18:062][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
 [2022.10.05-22.37.18:102][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2022.10.05-22.37.18:144][  0]LogSlate: Took 0.000127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.10.05-22.37.18:518][  3]LogSlate: Took 0.000197 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.10.05-22.37.31:099][429]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.10.05-22.37.31:111][430]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.10.05-22.37.34:899][568]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.10.05-22.37.51:355][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.10.05-22.37.51:360][407]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.004315 seconds
+[2022.10.05-22.37.51:378][407]LogSavePackage: Moving output files for package: /Game/StarterContent/Maps/Minimal_Default
+[2022.10.05-22.37.51:379][407]LogSavePackage: Moving '../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Saved/Minimal_Default8F85764A403B33C3AE7A038758D85CFF.tmp' to '../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap'
+[2022.10.05-22.37.51:389][407]LogFileHelpers: No new changes to save!
+[2022.10.05-22.37.51:403][407]AssetCheck: New page: Asset Save: Minimal_Default
+[2022.10.05-22.37.51:403][407]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
