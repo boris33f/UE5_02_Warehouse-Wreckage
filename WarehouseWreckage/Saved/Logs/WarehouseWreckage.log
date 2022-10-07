@@ -2077,3 +2077,18 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.10.07-03.20.48:840][554]LogFileHelpers: Saving map 'Main' took 0.093
 [2022.10.07-03.20.48:855][554]AssetCheck: New page: Asset Save: Main
 [2022.10.07-03.20.48:856][554]LogContentValidation: Display: Validating World /Game/Maps/Main.Main
+[2022.10.07-03.23.21:214][892]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.07-03.23.24:434][892]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2022.10.07-03.23.24:503][892]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2022.10.07-03.23.24:509][892]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2022.10.07-03.23.24:533][893]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2022.10.07-03.23.34:071][404]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_Main
+[2022.10.07-03.23.34:086][404]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2022.10.07-03.24.13:544][582]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/WBP_Main.WBP_Main
+[2022.10.07-03.24.13:545][582]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.07-03.24.13:566][582]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.07-03.24.13:576][582]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2022.10.07-03.24.14:074][582]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.07-03.24.14:074][582]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.07-03.24.14:283][582]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2022.10.07-03.24.18:527][788]LogSlate: Window 'WBP_Main' being destroyed
