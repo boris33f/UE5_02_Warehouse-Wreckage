@@ -4075,3 +4075,665 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.10.07-04.15.48:140][516]LogSavePackage: Moving '../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Saved/BP_Projectile1053244849F0524F6E6D808B5F5C7E05.tmp' to '../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Content/BP_Projectile.uasset'
 [2022.10.07-04.15.48:160][516]AssetCheck: New page: Asset Save: BP_Projectile
 [2022.10.07-04.15.48:160][516]LogContentValidation: Display: Validating Blueprint /Game/BP_Projectile.BP_Projectile
+[2022.10.07-04.17.17:717][540]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2022.10.07-04.17.17:789][540]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.07-04.17.17:847][540]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.10.07-04.17.17:890][540]LogSavePackage: Moving output files for package: /Game/Maps/Main
+[2022.10.07-04.17.17:891][540]LogSavePackage: Moving '../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Saved/Main3FD346334C1EDF261B19AB9941F634AE.tmp' to '../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Content/Maps/Main.umap'
+[2022.10.07-04.17.17:900][540]LogFileHelpers: No new changes to save!
+[2022.10.07-04.17.17:900][540]LogFileHelpers: Saving map 'Main' took 0.112
+[2022.10.07-04.17.17:920][540]AssetCheck: New page: Asset Save: Main
+[2022.10.07-04.17.17:920][540]LogContentValidation: Display: Validating World /Game/Maps/Main.Main
+[2022.10.07-04.17.30:390][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.07-04.17.30:451][  8]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2022.10.07-04.17.30:497][  8]LogSavePackage: Moving output files for package: /Game/Maps/Main
+[2022.10.07-04.17.30:498][  8]LogSavePackage: Moving '../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Saved/Main1FDB2D67499746AC513DE888436C2D82.tmp' to '../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Content/Maps/Main.umap'
+[2022.10.07-04.17.30:507][  8]LogFileHelpers: No new changes to save!
+[2022.10.07-04.17.30:507][  8]LogFileHelpers: Saving map 'Main' took 0.117
+[2022.10.07-04.17.30:528][  8]AssetCheck: New page: Asset Save: Main
+[2022.10.07-04.17.30:528][  8]LogContentValidation: Display: Validating World /Game/Maps/Main.Main
+[2022.10.07-04.17.32:452][231]BlueprintLog: New page: Compile Main
+[2022.10.07-04.17.32:546][231]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2022.10.07-04.19.23:866][683]LogEditorTransaction: Undo Create Pin Link
+[2022.10.07-04.21.03:170][637]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.10.07-04.21.03:246][637]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.07-04.21.03:306][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.10.07-04.21.03:353][637]LogSavePackage: Moving output files for package: /Game/Maps/Main
+[2022.10.07-04.21.03:353][637]LogSavePackage: Moving '../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Saved/Main4989FE8C46384E8091BF049F027E4AC0.tmp' to '../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Content/Maps/Main.umap'
+[2022.10.07-04.21.03:363][637]LogFileHelpers: No new changes to save!
+[2022.10.07-04.21.03:363][637]LogFileHelpers: Saving map 'Main' took 0.118
+[2022.10.07-04.21.03:367][637]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WBP_Main" FILE="../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Content/WBP_Main.uasset" SILENT=true
+[2022.10.07-04.21.03:372][637]LogSavePackage: Moving output files for package: /Game/WBP_Main
+[2022.10.07-04.21.03:373][637]LogSavePackage: Moving '../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Saved/WBP_Main1E102ED144751971105478B21AFFE140.tmp' to '../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Content/WBP_Main.uasset'
+[2022.10.07-04.21.03:391][637]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.07-04.21.03:391][637]LogContentValidation: Display: Validating World /Game/Maps/Main.Main
+[2022.10.07-04.21.03:392][637]LogContentValidation: Display: Validating WidgetBlueprint /Game/WBP_Main.WBP_Main
+[2022.10.07-04.21.06:183][965]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.07-04.21.06:183][965]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.07-04.21.52:898][985]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WBP_Main" FILE="../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Content/WBP_Main.uasset" SILENT=true
+[2022.10.07-04.21.52:903][985]LogSavePackage: Moving output files for package: /Game/WBP_Main
+[2022.10.07-04.21.52:904][985]LogSavePackage: Moving '../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Saved/WBP_Main0CC304B143F5E09529A8EF9E25699B72.tmp' to '../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Content/WBP_Main.uasset'
+[2022.10.07-04.21.52:922][985]AssetCheck: New page: Asset Save: WBP_Main
+[2022.10.07-04.21.52:923][985]LogContentValidation: Display: Validating WidgetBlueprint /Game/WBP_Main.WBP_Main
+[2022.10.07-04.22.15:457][508]LogSlate: Window 'Color Picker' being destroyed
+[2022.10.07-04.22.26:456][643]LogSlate: Window 'Color Picker' being destroyed
+[2022.10.07-04.22.56:844][ 82]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WBP_Main" FILE="../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Content/WBP_Main.uasset" SILENT=true
+[2022.10.07-04.22.56:849][ 82]LogSavePackage: Moving output files for package: /Game/WBP_Main
+[2022.10.07-04.22.56:850][ 82]LogSavePackage: Moving '../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Saved/WBP_Main2C8B88AC41249ADB1FAACDA51FA3AAA6.tmp' to '../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Content/WBP_Main.uasset'
+[2022.10.07-04.22.56:868][ 82]AssetCheck: New page: Asset Save: WBP_Main
+[2022.10.07-04.22.56:868][ 82]LogContentValidation: Display: Validating WidgetBlueprint /Game/WBP_Main.WBP_Main
+[2022.10.07-04.23.30:428][973]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WBP_Main" FILE="../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Content/WBP_Main.uasset" SILENT=true
+[2022.10.07-04.23.30:434][973]LogSavePackage: Moving output files for package: /Game/WBP_Main
+[2022.10.07-04.23.30:434][973]LogSavePackage: Moving '../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Saved/WBP_MainFF9DFF744ED11C11FC1A4B8A1290F5D7.tmp' to '../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Content/WBP_Main.uasset'
+[2022.10.07-04.23.30:453][973]AssetCheck: New page: Asset Save: WBP_Main
+[2022.10.07-04.23.30:453][973]LogContentValidation: Display: Validating WidgetBlueprint /Game/WBP_Main.WBP_Main
+[2022.10.07-04.23.51:043][390]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WBP_Main" FILE="../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Content/WBP_Main.uasset" SILENT=true
+[2022.10.07-04.23.51:049][390]LogSavePackage: Moving output files for package: /Game/WBP_Main
+[2022.10.07-04.23.51:050][390]LogSavePackage: Moving '../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Saved/WBP_Main6921CCEF4278B2E7A8E5EA93D24C914D.tmp' to '../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Content/WBP_Main.uasset'
+[2022.10.07-04.23.51:068][390]AssetCheck: New page: Asset Save: WBP_Main
+[2022.10.07-04.23.51:068][390]LogContentValidation: Display: Validating WidgetBlueprint /Game/WBP_Main.WBP_Main
+[2022.10.07-04.24.40:100][992]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2022.10.07-04.24.40:155][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.07-04.24.40:214][992]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.10.07-04.24.40:260][992]LogSavePackage: Moving output files for package: /Game/Maps/Main
+[2022.10.07-04.24.40:260][992]LogSavePackage: Moving '../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Saved/Main5B80252D47E88A10132D33BE03B6F96F.tmp' to '../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Content/Maps/Main.umap'
+[2022.10.07-04.24.40:270][992]LogFileHelpers: No new changes to save!
+[2022.10.07-04.24.40:270][992]LogFileHelpers: Saving map 'Main' took 0.115
+[2022.10.07-04.24.40:287][992]AssetCheck: New page: Asset Save: Main
+[2022.10.07-04.24.40:288][992]LogContentValidation: Display: Validating World /Game/Maps/Main.Main
+[2022.10.07-04.24.41:848][163]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.07-04.24.41:858][163]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.10.07-04.24.41:863][163]LogPlayLevel: [PlayLevel] Compiling BP_Projectile before play...
+[2022.10.07-04.24.41:923][163]LogPlayLevel: [PlayLevel] Compiling Main before play...
+[2022.10.07-04.24.41:971][163]LogPlayLevel: [PlayLevel] Compiling WBP_Main before play...
+[2022.10.07-04.24.42:068][163]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2022.10.07-04.24.42:072][163]LogPlayLevel: PlayLevel: Blueprint regeneration took 214 ms (3 blueprints)
+[2022.10.07-04.24.42:072][163]PIE: New page: PIE session: Main (Oct 6, 2022, 10:24:42 PM)
+[2022.10.07-04.24.42:072][163]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2022.10.07-04.24.42:089][163]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016313s)
+[2022.10.07-04.24.42:089][163]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.016413s)
+[2022.10.07-04.24.42:089][163]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.07-04.24.42:090][163]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.07-04.24.42:090][163]LogAIModule: Creating AISystem for world Main
+[2022.10.07-04.24.42:090][163]LogPlayLevel: PIE: World Init took: (0.001029s)
+[2022.10.07-04.24.42:151][163]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2022.10.07-04.24.42:152][163]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2022.10.07-04.24.42:152][163]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.07-04.24.42:152][163]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.07-04.24.42:152][163]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.07-04.24.42:152][163]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.07-04.24.42:153][163]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.07-04.24.42:153][163]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.07-04.24.42:153][163]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.07-04.24.42:153][163]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.07-04.24.42:153][163]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.07-04.24.42:153][163]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.07-04.24.42:153][163]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.07-04.24.42:155][163]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.07-04.24.42:179][163]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G733 Gaming Headset)
+[2022.10.07-04.24.42:181][163]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.07-04.24.42:181][163]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.07-04.24.42:181][163]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.07-04.24.42:182][163]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=38
+[2022.10.07-04.24.42:182][163]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=38
+[2022.10.07-04.24.42:184][163]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=38
+[2022.10.07-04.24.42:184][163]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=38
+[2022.10.07-04.24.42:184][163]LogInit: FAudioDevice initialized.
+[2022.10.07-04.24.42:184][163]LogAudio: Display: Audio Device (ID: 38) registered with world 'Main'.
+[2022.10.07-04.24.42:239][163]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.07-04.24.42:239][163]LogLoad: Game class is 'GameModeBase'
+[2022.10.07-04.24.42:240][163]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.10.07-04.24.42:240][163]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.10.07-04.24.42:241][163]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.10.07-04.24.42:241][163]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.10.07-04.24.42:241][163]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.10.07-04.24.42:241][163]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.10.07-04.24.42:248][163]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2022.10.07-01.24.42
+[2022.10.07-04.24.42:249][163]LogWorld: Bringing up level for play took: 0.009507
+[2022.10.07-04.24.42:251][163]LogOnline: OSS: Created online subsystem instance for: :Context_52
+[2022.10.07-04.24.42:251][163]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.07-04.24.42:253][163]PIE: Warning: The widget 'WBP_Main_C' was already added to the screen.
+[2022.10.07-04.24.42:254][163]PIE: Server logged in
+[2022.10.07-04.24.42:255][163]PIE: Play in editor total start time 0.399 seconds.
+[2022.10.07-04.24.42:304][163]LogViewport: Scene viewport resized to 1914x992, mode Windowed.
+[2022.10.07-04.24.47:023][353]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.07-04.24.47:023][353]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2022.10.07-04.24.47:024][353]LogSlate: Window 'WarehouseWreckage Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.10.07-04.24.47:032][353]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2022.10.07-04.24.47:033][353]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-04.24.47:047][353]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.07-04.24.47:058][353]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-04.24.47:119][353]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2022.10.07-04.24.47:120][353]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2022.10.07-04.24.47:131][353]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2022.10.07-04.24.47:282][354]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2022.10.07-04.24.49:836][611]LogSlate: Window 'Message Log' being destroyed
+[2022.10.07-04.24.49:848][611]LogSlate: Window 'Message Log' being destroyed
+[2022.10.07-04.25.02:877][103]LogUObjectHash: Compacting FUObjectHashTables data took   6.02ms
+[2022.10.07-04.25.02:939][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.07-04.25.03:001][103]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.10.07-04.25.03:049][103]LogSavePackage: Moving output files for package: /Game/Maps/Main
+[2022.10.07-04.25.03:050][103]LogSavePackage: Moving '../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Saved/MainB0077CF248AB817C847C3FA68387D954.tmp' to '../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Content/Maps/Main.umap'
+[2022.10.07-04.25.03:059][103]LogFileHelpers: No new changes to save!
+[2022.10.07-04.25.03:059][103]LogFileHelpers: Saving map 'Main' took 0.120
+[2022.10.07-04.25.03:063][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WBP_Main" FILE="../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Content/WBP_Main.uasset" SILENT=true
+[2022.10.07-04.25.03:071][103]LogSavePackage: Moving output files for package: /Game/WBP_Main
+[2022.10.07-04.25.03:072][103]LogSavePackage: Moving '../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Saved/WBP_Main8BC1CF0D44960880A119B88C551139A4.tmp' to '../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Content/WBP_Main.uasset'
+[2022.10.07-04.25.03:095][103]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.07-04.25.03:095][103]LogContentValidation: Display: Validating World /Game/Maps/Main.Main
+[2022.10.07-04.25.03:095][103]LogContentValidation: Display: Validating WidgetBlueprint /Game/WBP_Main.WBP_Main
+[2022.10.07-04.25.03:720][177]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.07-04.25.03:728][177]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.10.07-04.25.03:741][177]LogPlayLevel: [PlayLevel] Compiling WBP_Main before play...
+[2022.10.07-04.25.03:846][177]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2022.10.07-04.25.03:849][177]LogPlayLevel: PlayLevel: Blueprint regeneration took 120 ms (1 blueprints)
+[2022.10.07-04.25.03:849][177]PIE: New page: PIE session: Main (Oct 6, 2022, 10:25:03 PM)
+[2022.10.07-04.25.03:849][177]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2022.10.07-04.25.03:867][177]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016603s)
+[2022.10.07-04.25.03:867][177]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.016715s)
+[2022.10.07-04.25.03:867][177]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.07-04.25.03:867][177]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.07-04.25.03:868][177]LogAIModule: Creating AISystem for world Main
+[2022.10.07-04.25.03:868][177]LogPlayLevel: PIE: World Init took: (0.000935s)
+[2022.10.07-04.25.03:929][177]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2022.10.07-04.25.03:931][177]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2022.10.07-04.25.03:931][177]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.07-04.25.03:931][177]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.07-04.25.03:931][177]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.07-04.25.03:931][177]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.07-04.25.03:931][177]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.07-04.25.03:931][177]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.07-04.25.03:931][177]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.07-04.25.03:931][177]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.07-04.25.03:932][177]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.07-04.25.03:932][177]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.07-04.25.03:932][177]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.07-04.25.03:934][177]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.07-04.25.03:959][177]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G733 Gaming Headset)
+[2022.10.07-04.25.03:960][177]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.07-04.25.03:960][177]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.07-04.25.03:960][177]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.07-04.25.03:964][177]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=39
+[2022.10.07-04.25.03:964][177]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=39
+[2022.10.07-04.25.03:967][177]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=39
+[2022.10.07-04.25.03:967][177]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=39
+[2022.10.07-04.25.03:967][177]LogInit: FAudioDevice initialized.
+[2022.10.07-04.25.03:967][177]LogAudio: Display: Audio Device (ID: 39) registered with world 'Main'.
+[2022.10.07-04.25.04:020][177]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.07-04.25.04:021][177]LogLoad: Game class is 'GameModeBase'
+[2022.10.07-04.25.04:021][177]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.10.07-04.25.04:021][177]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.10.07-04.25.04:022][177]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.10.07-04.25.04:022][177]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.10.07-04.25.04:022][177]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.10.07-04.25.04:022][177]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.10.07-04.25.04:029][177]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2022.10.07-01.25.04
+[2022.10.07-04.25.04:029][177]LogWorld: Bringing up level for play took: 0.009161
+[2022.10.07-04.25.04:032][177]LogOnline: OSS: Created online subsystem instance for: :Context_53
+[2022.10.07-04.25.04:032][177]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.07-04.25.04:034][177]PIE: Warning: The widget 'WBP_Main_C' was already added to the screen.
+[2022.10.07-04.25.04:036][177]PIE: Server logged in
+[2022.10.07-04.25.04:036][177]PIE: Play in editor total start time 0.309 seconds.
+[2022.10.07-04.25.04:053][177]LogViewport: Scene viewport resized to 1914x992, mode Windowed.
+[2022.10.07-04.25.12:530][604]LogBlueprintUserMessages: [Main_C_25] Restarting in 5 seconds
+[2022.10.07-04.25.13:502][656]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.07-04.25.13:502][656]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2022.10.07-04.25.13:503][656]LogSlate: Window 'WarehouseWreckage Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.10.07-04.25.13:516][656]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2022.10.07-04.25.13:518][656]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-04.25.13:528][656]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.07-04.25.13:539][656]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-04.25.13:602][656]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2022.10.07-04.25.13:603][656]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2022.10.07-04.25.13:614][656]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2022.10.07-04.25.13:755][657]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2022.10.07-04.25.15:511][842]LogSlate: Window 'Message Log' being destroyed
+[2022.10.07-04.25.15:519][842]LogSlate: Window 'Message Log' being destroyed
+[2022.10.07-04.25.34:370][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.07-04.25.34:428][983]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.10.07-04.25.34:475][983]LogSavePackage: Moving output files for package: /Game/Maps/Main
+[2022.10.07-04.25.34:475][983]LogSavePackage: Moving '../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Saved/Main9E139E0A493795C6D63556B413E5CFEF.tmp' to '../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Content/Maps/Main.umap'
+[2022.10.07-04.25.34:485][983]LogFileHelpers: No new changes to save!
+[2022.10.07-04.25.34:485][983]LogFileHelpers: Saving map 'Main' took 0.116
+[2022.10.07-04.25.34:502][983]AssetCheck: New page: Asset Save: Main
+[2022.10.07-04.25.34:503][983]LogContentValidation: Display: Validating World /Game/Maps/Main.Main
+[2022.10.07-04.27.52:455][967]BlueprintLog: New page: Compile Main
+[2022.10.07-04.27.52:561][967]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2022.10.07-04.28.06:648][581]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.07-04.28.06:708][581]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2022.10.07-04.28.06:759][581]LogSavePackage: Moving output files for package: /Game/Maps/Main
+[2022.10.07-04.28.06:760][581]LogSavePackage: Moving '../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Saved/MainF3632EA04BB68DB83B63B39F13B3850F.tmp' to '../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Content/Maps/Main.umap'
+[2022.10.07-04.28.06:769][581]LogFileHelpers: No new changes to save!
+[2022.10.07-04.28.06:769][581]LogFileHelpers: Saving map 'Main' took 0.122
+[2022.10.07-04.28.06:787][581]AssetCheck: New page: Asset Save: Main
+[2022.10.07-04.28.06:788][581]LogContentValidation: Display: Validating World /Game/Maps/Main.Main
+[2022.10.07-04.29.27:718][812]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.07-04.29.27:778][812]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2022.10.07-04.29.27:827][812]LogSavePackage: Moving output files for package: /Game/Maps/Main
+[2022.10.07-04.29.27:827][812]LogSavePackage: Moving '../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Saved/Main25A4EDA743FED05E3E5C45A738503BC3.tmp' to '../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Content/Maps/Main.umap'
+[2022.10.07-04.29.27:836][812]LogFileHelpers: No new changes to save!
+[2022.10.07-04.29.27:836][812]LogFileHelpers: Saving map 'Main' took 0.118
+[2022.10.07-04.29.27:854][812]AssetCheck: New page: Asset Save: Main
+[2022.10.07-04.29.27:854][812]LogContentValidation: Display: Validating World /Game/Maps/Main.Main
+[2022.10.07-04.29.28:552][889]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.10.07-04.29.29:532][989]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.07-04.29.29:540][989]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.10.07-04.29.29:541][989]LogPlayLevel: [PlayLevel] Compiling Main before play...
+[2022.10.07-04.29.29:663][989]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.10.07-04.29.29:668][989]LogPlayLevel: PlayLevel: Blueprint regeneration took 127 ms (1 blueprints)
+[2022.10.07-04.29.29:668][989]PIE: New page: PIE session: Main (Oct 6, 2022, 10:29:29 PM)
+[2022.10.07-04.29.29:668][989]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2022.10.07-04.29.29:684][989]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016553s)
+[2022.10.07-04.29.29:685][989]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.016660s)
+[2022.10.07-04.29.29:685][989]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.07-04.29.29:685][989]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.07-04.29.29:685][989]LogAIModule: Creating AISystem for world Main
+[2022.10.07-04.29.29:685][989]LogPlayLevel: PIE: World Init took: (0.000929s)
+[2022.10.07-04.29.29:746][989]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.10.07-04.29.29:748][989]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2022.10.07-04.29.29:748][989]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.07-04.29.29:748][989]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.07-04.29.29:748][989]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.07-04.29.29:748][989]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.07-04.29.29:748][989]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.07-04.29.29:748][989]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.07-04.29.29:748][989]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.07-04.29.29:748][989]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.07-04.29.29:748][989]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.07-04.29.29:748][989]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.07-04.29.29:748][989]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.07-04.29.29:751][989]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.07-04.29.29:775][989]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G733 Gaming Headset)
+[2022.10.07-04.29.29:776][989]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.07-04.29.29:776][989]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.07-04.29.29:776][989]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.07-04.29.29:777][989]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=40
+[2022.10.07-04.29.29:777][989]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=40
+[2022.10.07-04.29.29:779][989]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=40
+[2022.10.07-04.29.29:779][989]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=40
+[2022.10.07-04.29.29:779][989]LogInit: FAudioDevice initialized.
+[2022.10.07-04.29.29:779][989]LogAudio: Display: Audio Device (ID: 40) registered with world 'Main'.
+[2022.10.07-04.29.29:817][989]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.07-04.29.29:817][989]LogLoad: Game class is 'GameModeBase'
+[2022.10.07-04.29.29:818][989]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.10.07-04.29.29:819][989]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.10.07-04.29.29:819][989]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.10.07-04.29.29:819][989]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.10.07-04.29.29:819][989]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.10.07-04.29.29:819][989]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.10.07-04.29.29:825][989]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2022.10.07-01.29.29
+[2022.10.07-04.29.29:825][989]LogWorld: Bringing up level for play took: 0.008024
+[2022.10.07-04.29.29:827][989]LogOnline: OSS: Created online subsystem instance for: :Context_54
+[2022.10.07-04.29.29:828][989]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.07-04.29.29:829][989]PIE: Warning: The widget 'WBP_Main_C' was already added to the screen.
+[2022.10.07-04.29.29:831][989]PIE: Server logged in
+[2022.10.07-04.29.29:831][989]PIE: Play in editor total start time 0.292 seconds.
+[2022.10.07-04.29.29:876][989]LogViewport: Scene viewport resized to 1914x992, mode Windowed.
+[2022.10.07-04.29.35:360][273]LogBlueprintUserMessages: [Main_C_27] Reloading
+[2022.10.07-04.29.40:066][526]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.07-04.29.40:066][526]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2022.10.07-04.29.40:068][526]LogSlate: Window 'WarehouseWreckage Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.10.07-04.29.40:075][526]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2022.10.07-04.29.40:077][526]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-04.29.40:090][526]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.07-04.29.40:099][526]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-04.29.40:160][526]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2022.10.07-04.29.40:162][526]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2022.10.07-04.29.40:171][526]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2022.10.07-04.29.40:313][527]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2022.10.07-04.29.43:719][909]LogSlate: Window 'Message Log' being destroyed
+[2022.10.07-04.29.43:729][909]LogSlate: Window 'Message Log' being destroyed
+[2022.10.07-04.30.31:244][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.07-04.30.31:304][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2022.10.07-04.30.31:354][ 14]LogSavePackage: Moving output files for package: /Game/Maps/Main
+[2022.10.07-04.30.31:355][ 14]LogSavePackage: Moving '../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Saved/Main239449FF443795506376B3ADA7676B2A.tmp' to '../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Content/Maps/Main.umap'
+[2022.10.07-04.30.31:364][ 14]LogFileHelpers: No new changes to save!
+[2022.10.07-04.30.31:364][ 14]LogFileHelpers: Saving map 'Main' took 0.120
+[2022.10.07-04.30.31:384][ 14]AssetCheck: New page: Asset Save: Main
+[2022.10.07-04.30.31:384][ 14]LogContentValidation: Display: Validating World /Game/Maps/Main.Main
+[2022.10.07-04.30.31:998][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.10.07-04.30.32:493][135]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.07-04.30.32:501][135]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.10.07-04.30.32:502][135]LogPlayLevel: [PlayLevel] Compiling Main before play...
+[2022.10.07-04.30.32:634][135]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2022.10.07-04.30.32:638][135]LogPlayLevel: PlayLevel: Blueprint regeneration took 136 ms (1 blueprints)
+[2022.10.07-04.30.32:638][135]PIE: New page: PIE session: Main (Oct 6, 2022, 10:30:32 PM)
+[2022.10.07-04.30.32:638][135]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2022.10.07-04.30.32:655][135]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016917s)
+[2022.10.07-04.30.32:655][135]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.017018s)
+[2022.10.07-04.30.32:655][135]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.07-04.30.32:655][135]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.07-04.30.32:656][135]LogAIModule: Creating AISystem for world Main
+[2022.10.07-04.30.32:656][135]LogPlayLevel: PIE: World Init took: (0.000934s)
+[2022.10.07-04.30.32:715][135]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2022.10.07-04.30.32:717][135]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2022.10.07-04.30.32:718][135]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.07-04.30.32:718][135]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.07-04.30.32:718][135]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.07-04.30.32:718][135]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.07-04.30.32:718][135]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.07-04.30.32:718][135]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.07-04.30.32:718][135]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.07-04.30.32:718][135]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.07-04.30.32:718][135]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.07-04.30.32:718][135]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.07-04.30.32:718][135]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.07-04.30.32:720][135]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.07-04.30.32:746][135]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G733 Gaming Headset)
+[2022.10.07-04.30.32:746][135]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.07-04.30.32:746][135]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.07-04.30.32:746][135]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.07-04.30.32:747][135]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=41
+[2022.10.07-04.30.32:747][135]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=41
+[2022.10.07-04.30.32:750][135]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=41
+[2022.10.07-04.30.32:750][135]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=41
+[2022.10.07-04.30.32:750][135]LogInit: FAudioDevice initialized.
+[2022.10.07-04.30.32:750][135]LogAudio: Display: Audio Device (ID: 41) registered with world 'Main'.
+[2022.10.07-04.30.32:811][135]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.07-04.30.32:811][135]LogLoad: Game class is 'GameModeBase'
+[2022.10.07-04.30.32:812][135]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.10.07-04.30.32:812][135]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.10.07-04.30.32:812][135]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.10.07-04.30.32:813][135]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.10.07-04.30.32:813][135]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.10.07-04.30.32:813][135]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.10.07-04.30.32:821][135]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2022.10.07-01.30.32
+[2022.10.07-04.30.32:821][135]LogWorld: Bringing up level for play took: 0.010239
+[2022.10.07-04.30.32:823][135]LogOnline: OSS: Created online subsystem instance for: :Context_55
+[2022.10.07-04.30.32:824][135]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.07-04.30.32:825][135]PIE: Warning: The widget 'WBP_Main_C' was already added to the screen.
+[2022.10.07-04.30.32:826][135]PIE: Server logged in
+[2022.10.07-04.30.32:827][135]PIE: Play in editor total start time 0.327 seconds.
+[2022.10.07-04.30.32:876][135]LogViewport: Scene viewport resized to 1914x992, mode Windowed.
+[2022.10.07-04.30.38:021][401]LogBlueprintUserMessages: [Main_C_28] Reloading
+[2022.10.07-04.30.40:535][534]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.07-04.30.40:535][534]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2022.10.07-04.30.40:536][534]LogSlate: Window 'WarehouseWreckage Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.10.07-04.30.40:542][534]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2022.10.07-04.30.40:544][534]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-04.30.40:556][534]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.07-04.30.40:567][534]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-04.30.40:630][534]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2022.10.07-04.30.40:632][534]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2022.10.07-04.30.40:642][534]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2022.10.07-04.30.40:760][535]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2022.10.07-04.30.49:311][526]LogSlate: Window 'Message Log' being destroyed
+[2022.10.07-04.30.49:323][526]LogSlate: Window 'Message Log' being destroyed
+[2022.10.07-04.31.37:807][241]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.07-04.31.37:869][241]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2022.10.07-04.31.37:919][241]LogSavePackage: Moving output files for package: /Game/Maps/Main
+[2022.10.07-04.31.37:919][241]LogSavePackage: Moving '../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Saved/Main6BE3E3734C9CD84F39B4F697E3DF26CD.tmp' to '../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Content/Maps/Main.umap'
+[2022.10.07-04.31.37:929][241]LogFileHelpers: No new changes to save!
+[2022.10.07-04.31.37:929][241]LogFileHelpers: Saving map 'Main' took 0.122
+[2022.10.07-04.31.37:947][241]AssetCheck: New page: Asset Save: Main
+[2022.10.07-04.31.37:947][241]LogContentValidation: Display: Validating World /Game/Maps/Main.Main
+[2022.10.07-04.32.01:177][988]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WBP_Main" FILE="../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Content/WBP_Main.uasset" SILENT=true
+[2022.10.07-04.32.01:184][988]LogSavePackage: Moving output files for package: /Game/WBP_Main
+[2022.10.07-04.32.01:185][988]LogSavePackage: Moving '../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Saved/WBP_Main18BF791140A65FC90843F5A1FBFCF7B1.tmp' to '../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Content/WBP_Main.uasset'
+[2022.10.07-04.32.01:204][988]AssetCheck: New page: Asset Save: WBP_Main
+[2022.10.07-04.32.01:204][988]LogContentValidation: Display: Validating WidgetBlueprint /Game/WBP_Main.WBP_Main
+[2022.10.07-04.32.07:444][719]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.07-04.32.07:444][719]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.07-04.33.03:354][730]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2022.10.07-04.33.03:423][730]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WBP_Main" FILE="../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Content/WBP_Main.uasset" SILENT=true
+[2022.10.07-04.33.03:430][730]LogSavePackage: Moving output files for package: /Game/WBP_Main
+[2022.10.07-04.33.03:431][730]LogSavePackage: Moving '../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Saved/WBP_MainEB65ED6B4A8B3C0A11ADBBA62E3548F1.tmp' to '../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Content/WBP_Main.uasset'
+[2022.10.07-04.33.03:450][730]AssetCheck: New page: Asset Save: WBP_Main
+[2022.10.07-04.33.03:451][730]LogContentValidation: Display: Validating WidgetBlueprint /Game/WBP_Main.WBP_Main
+[2022.10.07-04.33.21:436][824]LogEditorTransaction: Undo Move Node
+[2022.10.07-04.33.28:667][615]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.10.07-04.33.28:667][615]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-04.34.30:507][448]LogSlate: Window 'Delete Function' being destroyed
+[2022.10.07-04.37.02:686][418]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2022.10.07-04.37.02:762][418]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.07-04.37.02:818][418]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2022.10.07-04.37.02:867][418]LogSavePackage: Moving output files for package: /Game/Maps/Main
+[2022.10.07-04.37.02:867][418]LogSavePackage: Moving '../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Saved/Main2F94FA8546998A3CE2B2AE9184146843.tmp' to '../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Content/Maps/Main.umap'
+[2022.10.07-04.37.02:876][418]LogFileHelpers: No new changes to save!
+[2022.10.07-04.37.02:876][418]LogFileHelpers: Saving map 'Main' took 0.116
+[2022.10.07-04.37.02:880][418]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WBP_Main" FILE="../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Content/WBP_Main.uasset" SILENT=true
+[2022.10.07-04.37.02:890][418]LogSavePackage: Moving output files for package: /Game/WBP_Main
+[2022.10.07-04.37.02:890][418]LogSavePackage: Moving '../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Saved/WBP_Main4EFDD8A344277D5EC8FE7DB1CAC4471C.tmp' to '../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Content/WBP_Main.uasset'
+[2022.10.07-04.37.02:909][418]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.07-04.37.02:909][418]LogContentValidation: Display: Validating World /Game/Maps/Main.Main
+[2022.10.07-04.37.02:909][418]LogContentValidation: Display: Validating WidgetBlueprint /Game/WBP_Main.WBP_Main
+[2022.10.07-04.37.09:949][245]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.07-04.37.09:949][245]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.07-04.38.12:863][324]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2022.10.07-04.38.12:932][324]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WBP_Main" FILE="../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Content/WBP_Main.uasset" SILENT=true
+[2022.10.07-04.38.12:940][324]LogSavePackage: Moving output files for package: /Game/WBP_Main
+[2022.10.07-04.38.12:941][324]LogSavePackage: Moving '../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Saved/WBP_MainFC1427174958B74D2A506C90291D8AD4.tmp' to '../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Content/WBP_Main.uasset'
+[2022.10.07-04.38.12:962][324]AssetCheck: New page: Asset Save: WBP_Main
+[2022.10.07-04.38.12:962][324]LogContentValidation: Display: Validating WidgetBlueprint /Game/WBP_Main.WBP_Main
+[2022.10.07-04.39.11:640][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.07-04.39.11:698][  8]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2022.10.07-04.39.11:750][  8]LogSavePackage: Moving output files for package: /Game/Maps/Main
+[2022.10.07-04.39.11:751][  8]LogSavePackage: Moving '../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Saved/MainEB5AA72541F1B9A08BF913BFE47D47E5.tmp' to '../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Content/Maps/Main.umap'
+[2022.10.07-04.39.11:759][  8]LogFileHelpers: No new changes to save!
+[2022.10.07-04.39.11:759][  8]LogFileHelpers: Saving map 'Main' took 0.120
+[2022.10.07-04.39.11:778][  8]AssetCheck: New page: Asset Save: Main
+[2022.10.07-04.39.11:778][  8]LogContentValidation: Display: Validating World /Game/Maps/Main.Main
+[2022.10.07-04.39.12:600][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2022.10.07-04.39.16:252][176]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.07-04.39.16:267][176]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.10.07-04.39.16:268][176]LogPlayLevel: [PlayLevel] Compiling Main before play...
+[2022.10.07-04.39.16:276][176]LogBlueprint: Error: [AssetLog] C:\Git\UE5_02_Warehouse-Wreckage\WarehouseWreckage\Content\Maps\Main.umap: [Compiler] This blueprint (self) is not a WBP_Main_C, therefore ' Target ' must have a connection.
+[2022.10.07-04.39.16:356][176]LogPlayLevel: [PlayLevel] Compiling WBP_Main before play...
+[2022.10.07-04.39.21:902][176]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2022.10.07-04.39.21:908][176]LogPlayLevel: PlayLevel: Blueprint regeneration took 5640 ms (2 blueprints)
+[2022.10.07-04.39.21:908][176]BlueprintLog: Warning: Blueprint failed to compile:  Main
+[2022.10.07-04.39.21:909][176]LogCustomDialog: Dialog displayed:
+[2022.10.07-04.39.27:361][176]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2022.10.07-04.39.30:043][310]LogSlate: Window 'Message Log' being destroyed
+[2022.10.07-04.39.30:068][310]LogSlate: Window 'Message Log' being destroyed
+[2022.10.07-04.39.34:309][638]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2022.10.07-04.39.34:374][638]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.07-04.39.34:427][638]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.10.07-04.39.34:476][638]LogSavePackage: Moving output files for package: /Game/Maps/Main
+[2022.10.07-04.39.34:476][638]LogSavePackage: Moving '../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Saved/Main714EC1684760BC19181F41B79F6F927A.tmp' to '../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Content/Maps/Main.umap'
+[2022.10.07-04.39.34:486][638]LogFileHelpers: No new changes to save!
+[2022.10.07-04.39.34:486][638]LogFileHelpers: Saving map 'Main' took 0.112
+[2022.10.07-04.39.34:505][638]AssetCheck: New page: Asset Save: Main
+[2022.10.07-04.39.34:505][638]LogContentValidation: Display: Validating World /Game/Maps/Main.Main
+[2022.10.07-04.39.49:532][368]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.10.07-04.39.49:595][368]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.07-04.39.49:652][368]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2022.10.07-04.39.49:704][368]LogSavePackage: Moving output files for package: /Game/Maps/Main
+[2022.10.07-04.39.49:705][368]LogSavePackage: Moving '../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Saved/MainE6A3DE7749FD044B3543199E70261375.tmp' to '../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Content/Maps/Main.umap'
+[2022.10.07-04.39.49:714][368]LogFileHelpers: No new changes to save!
+[2022.10.07-04.39.49:714][368]LogFileHelpers: Saving map 'Main' took 0.120
+[2022.10.07-04.39.49:735][368]AssetCheck: New page: Asset Save: Main
+[2022.10.07-04.39.49:736][368]LogContentValidation: Display: Validating World /Game/Maps/Main.Main
+[2022.10.07-04.40.22:117][174]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.10.07-04.40.24:342][345]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.07-04.40.24:353][345]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.10.07-04.40.24:354][345]LogPlayLevel: [PlayLevel] Compiling Main before play...
+[2022.10.07-04.40.24:502][345]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2022.10.07-04.40.24:505][345]LogPlayLevel: PlayLevel: Blueprint regeneration took 152 ms (1 blueprints)
+[2022.10.07-04.40.24:505][345]PIE: New page: PIE session: Main (Oct 6, 2022, 10:40:24 PM)
+[2022.10.07-04.40.24:506][345]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2022.10.07-04.40.24:528][345]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022516s)
+[2022.10.07-04.40.24:529][345]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.022627s)
+[2022.10.07-04.40.24:529][345]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.07-04.40.24:529][345]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.07-04.40.24:529][345]LogAIModule: Creating AISystem for world Main
+[2022.10.07-04.40.24:530][345]LogPlayLevel: PIE: World Init took: (0.001132s)
+[2022.10.07-04.40.24:592][345]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2022.10.07-04.40.24:594][345]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2022.10.07-04.40.24:594][345]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.07-04.40.24:594][345]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.07-04.40.24:594][345]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.07-04.40.24:594][345]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.07-04.40.24:594][345]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.07-04.40.24:594][345]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.07-04.40.24:594][345]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.07-04.40.24:594][345]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.07-04.40.24:595][345]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.07-04.40.24:595][345]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.07-04.40.24:595][345]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.07-04.40.24:598][345]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.07-04.40.24:641][345]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G733 Gaming Headset)
+[2022.10.07-04.40.24:643][345]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.07-04.40.24:643][345]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.07-04.40.24:643][345]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.07-04.40.24:658][345]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=42
+[2022.10.07-04.40.24:658][345]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=42
+[2022.10.07-04.40.24:660][345]LogInit: FAudioDevice initialized.
+[2022.10.07-04.40.24:660][345]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=42
+[2022.10.07-04.40.24:660][345]LogAudio: Display: Audio Device (ID: 42) registered with world 'Main'.
+[2022.10.07-04.40.24:664][345]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=42
+[2022.10.07-04.40.24:682][345]LogLoad: Game class is 'GameModeBase'
+[2022.10.07-04.40.24:683][345]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.10.07-04.40.24:683][345]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.10.07-04.40.24:683][345]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.10.07-04.40.24:683][345]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.10.07-04.40.24:683][345]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.10.07-04.40.24:684][345]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.10.07-04.40.24:690][345]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2022.10.07-01.40.24
+[2022.10.07-04.40.24:692][345]LogWorld: Bringing up level for play took: 0.009971
+[2022.10.07-04.40.24:694][345]LogOnline: OSS: Created online subsystem instance for: :Context_56
+[2022.10.07-04.40.24:698][345]PIE: Warning: The widget 'WBP_Main_C' was already added to the screen.
+[2022.10.07-04.40.24:698][345]PIE: Server logged in
+[2022.10.07-04.40.24:699][345]PIE: Play in editor total start time 0.347 seconds.
+[2022.10.07-04.40.42:532][212]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.07-04.40.42:532][212]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2022.10.07-04.40.42:533][212]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2022.10.07-04.40.42:534][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-04.40.42:547][212]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.07-04.40.42:557][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-04.40.42:612][212]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.07-04.40.42:613][212]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2022.10.07-04.40.42:615][212]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2022.10.07-04.40.42:624][212]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2022.10.07-04.40.42:981][213]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2022.10.07-04.40.45:288][256]LogSlate: Window 'Message Log' being destroyed
+[2022.10.07-04.40.45:318][256]LogSlate: Window 'Message Log' being destroyed
+[2022.10.07-04.40.47:637][418]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2022.10.07-04.40.47:708][418]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.07-04.40.47:761][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.10.07-04.40.47:810][418]LogSavePackage: Moving output files for package: /Game/Maps/Main
+[2022.10.07-04.40.47:811][418]LogSavePackage: Moving '../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Saved/Main1BD84280404148AE8FF5A49CE8B4499D.tmp' to '../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Content/Maps/Main.umap'
+[2022.10.07-04.40.47:821][418]LogFileHelpers: No new changes to save!
+[2022.10.07-04.40.47:821][418]LogFileHelpers: Saving map 'Main' took 0.114
+[2022.10.07-04.40.47:842][418]AssetCheck: New page: Asset Save: Main
+[2022.10.07-04.40.47:842][418]LogContentValidation: Display: Validating World /Game/Maps/Main.Main
+[2022.10.07-04.40.49:679][627]BlueprintLog: New page: Compile Main
+[2022.10.07-04.40.49:773][627]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2022.10.07-04.41.15:064][414]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.07-04.41.15:064][414]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.07-04.41.56:029][886]LogSlate: Window 'Color Picker' being destroyed
+[2022.10.07-04.42.00:612][359]LogSlate: Window 'Color Picker' being destroyed
+[2022.10.07-04.42.16:655][ 99]LogSlate: Window 'Color Picker' being destroyed
+[2022.10.07-04.42.27:603][278]LogSlate: Window 'Color Picker' being destroyed
+[2022.10.07-04.42.58:752][708]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2022.10.07-04.42.58:817][708]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.07-04.42.58:873][708]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.10.07-04.42.58:922][708]LogSavePackage: Moving output files for package: /Game/Maps/Main
+[2022.10.07-04.42.58:922][708]LogSavePackage: Moving '../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Saved/MainDAA4BDE84630BE8E0DB4C5BE80281A4B.tmp' to '../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Content/Maps/Main.umap'
+[2022.10.07-04.42.58:932][708]LogFileHelpers: No new changes to save!
+[2022.10.07-04.42.58:932][708]LogFileHelpers: Saving map 'Main' took 0.115
+[2022.10.07-04.42.58:937][708]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WBP_Main" FILE="../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Content/WBP_Main.uasset" SILENT=true
+[2022.10.07-04.42.58:946][708]LogSavePackage: Moving output files for package: /Game/WBP_Main
+[2022.10.07-04.42.58:946][708]LogSavePackage: Moving '../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Saved/WBP_MainA6B2942D41AA7B7E685B389DFDFFC94A.tmp' to '../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Content/WBP_Main.uasset'
+[2022.10.07-04.42.58:969][708]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.07-04.42.58:969][708]LogContentValidation: Display: Validating World /Game/Maps/Main.Main
+[2022.10.07-04.42.58:970][708]LogContentValidation: Display: Validating WidgetBlueprint /Game/WBP_Main.WBP_Main
+[2022.10.07-04.43.01:954][975]LogAssetEditorSubsystem: Opening Asset editor for Font /Game/F_Belshaw.F_Belshaw
+[2022.10.07-04.43.02:025][975]LogViewport: Scene viewport resized to 1240x82, mode Windowed.
+[2022.10.07-04.43.12:458][187]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-04.43.12:464][187]LogSlate: Took 0.000251 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.10.07-04.43.12:465][187]LogSlate: Took 0.000114 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.10.07-04.43.12:488][187]LogSlate: Took 0.000560 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.10.07-04.43.12:489][187]LogSlate: Took 0.000339 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.10.07-04.43.13:923][349]LogAssetEditorSubsystem: Opening Asset editor for FontFace /Game/BELSHAW_.BELSHAW_
+[2022.10.07-04.43.17:740][787]LogSlate: Took 0.000263 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.10.07-04.43.19:555][985]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2022.10.07-04.43.19:616][985]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/F_Belshaw" FILE="../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Content/F_Belshaw.uasset" SILENT=true
+[2022.10.07-04.43.19:617][985]LogSavePackage: Moving output files for package: /Game/F_Belshaw
+[2022.10.07-04.43.19:617][985]LogSavePackage: Moving '../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Saved/F_Belshaw81891D094F8694DBC904E3AE9C4770D9.tmp' to '../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Content/F_Belshaw.uasset'
+[2022.10.07-04.43.19:638][985]AssetCheck: New page: Asset Save: F_Belshaw
+[2022.10.07-04.43.19:638][985]LogContentValidation: Display: Validating Font /Game/F_Belshaw.F_Belshaw
+[2022.10.07-04.43.24:171][488]LogSlate: Took 0.000227 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.10.07-04.45.10:733][604]LogSlate: Took 0.000248 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.10.07-04.45.12:573][821]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.07-04.45.12:573][821]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.07-04.45.44:732][446]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2022.10.07-04.45.44:797][446]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WBP_Main" FILE="../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Content/WBP_Main.uasset" SILENT=true
+[2022.10.07-04.45.44:807][446]LogSavePackage: Moving output files for package: /Game/WBP_Main
+[2022.10.07-04.45.44:808][446]LogSavePackage: Moving '../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Saved/WBP_Main05B5CE0643EC498C3F793BBABDBAA045.tmp' to '../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Content/WBP_Main.uasset'
+[2022.10.07-04.45.44:827][446]AssetCheck: New page: Asset Save: WBP_Main
+[2022.10.07-04.45.44:827][446]LogContentValidation: Display: Validating WidgetBlueprint /Game/WBP_Main.WBP_Main
+[2022.10.07-04.46.36:176][593]LogSlate: Window 'Color Picker' being destroyed
+[2022.10.07-04.47.46:670][760]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2022.10.07-04.47.46:741][760]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WBP_Main" FILE="../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Content/WBP_Main.uasset" SILENT=true
+[2022.10.07-04.47.46:752][760]LogSavePackage: Moving output files for package: /Game/WBP_Main
+[2022.10.07-04.47.46:753][760]LogSavePackage: Moving '../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Saved/WBP_MainE0AF260544F317313BA9B083DE6C1E01.tmp' to '../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Content/WBP_Main.uasset'
+[2022.10.07-04.47.46:770][760]AssetCheck: New page: Asset Save: WBP_Main
+[2022.10.07-04.47.46:771][760]LogContentValidation: Display: Validating WidgetBlueprint /Game/WBP_Main.WBP_Main
+[2022.10.07-04.47.47:561][853]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.07-04.47.47:571][853]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.10.07-04.47.47:590][853]LogPlayLevel: [PlayLevel] Compiling WBP_Main before play...
+[2022.10.07-04.47.47:687][853]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2022.10.07-04.47.47:691][853]LogPlayLevel: PlayLevel: Blueprint regeneration took 120 ms (1 blueprints)
+[2022.10.07-04.47.47:691][853]PIE: New page: PIE session: Main (Oct 6, 2022, 10:47:47 PM)
+[2022.10.07-04.47.47:691][853]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2022.10.07-04.47.47:709][853]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016943s)
+[2022.10.07-04.47.47:709][853]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.017054s)
+[2022.10.07-04.47.47:709][853]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.07-04.47.47:709][853]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.07-04.47.47:710][853]LogAIModule: Creating AISystem for world Main
+[2022.10.07-04.47.47:710][853]LogPlayLevel: PIE: World Init took: (0.000972s)
+[2022.10.07-04.47.47:763][853]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2022.10.07-04.47.47:764][853]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2022.10.07-04.47.47:765][853]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.07-04.47.47:765][853]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.07-04.47.47:765][853]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.07-04.47.47:765][853]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.07-04.47.47:765][853]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.07-04.47.47:765][853]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.07-04.47.47:765][853]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.07-04.47.47:765][853]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.07-04.47.47:765][853]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.07-04.47.47:765][853]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.07-04.47.47:765][853]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.07-04.47.47:768][853]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.07-04.47.47:793][853]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G733 Gaming Headset)
+[2022.10.07-04.47.47:793][853]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.07-04.47.47:793][853]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.07-04.47.47:793][853]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.07-04.47.47:794][853]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=43
+[2022.10.07-04.47.47:795][853]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=43
+[2022.10.07-04.47.47:796][853]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=43
+[2022.10.07-04.47.47:796][853]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=43
+[2022.10.07-04.47.47:796][853]LogInit: FAudioDevice initialized.
+[2022.10.07-04.47.47:796][853]LogAudio: Display: Audio Device (ID: 43) registered with world 'Main'.
+[2022.10.07-04.47.47:855][853]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.07-04.47.47:856][853]LogLoad: Game class is 'GameModeBase'
+[2022.10.07-04.47.47:857][853]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.10.07-04.47.47:857][853]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.10.07-04.47.47:857][853]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.10.07-04.47.47:857][853]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.10.07-04.47.47:858][853]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.10.07-04.47.47:858][853]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.10.07-04.47.47:864][853]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2022.10.07-01.47.47
+[2022.10.07-04.47.47:864][853]LogWorld: Bringing up level for play took: 0.008825
+[2022.10.07-04.47.47:867][853]LogOnline: OSS: Created online subsystem instance for: :Context_57
+[2022.10.07-04.47.47:868][853]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.07-04.47.47:869][853]PIE: Warning: The widget 'WBP_Main_C' was already added to the screen.
+[2022.10.07-04.47.47:871][853]PIE: Server logged in
+[2022.10.07-04.47.47:871][853]PIE: Play in editor total start time 0.302 seconds.
+[2022.10.07-04.47.47:891][853]LogViewport: Scene viewport resized to 1914x992, mode Windowed.
+[2022.10.07-04.48.00:344][462]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.07-04.48.00:344][462]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2022.10.07-04.48.00:346][462]LogSlate: Window 'WarehouseWreckage Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.10.07-04.48.00:358][462]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2022.10.07-04.48.00:361][462]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-04.48.00:376][462]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.07-04.48.00:386][462]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-04.48.00:440][462]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2022.10.07-04.48.00:442][462]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2022.10.07-04.48.00:451][462]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2022.10.07-04.48.00:593][463]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2022.10.07-04.48.03:544][789]LogSlate: Window 'Message Log' being destroyed
+[2022.10.07-04.48.03:555][789]LogSlate: Window 'Message Log' being destroyed
+[2022.10.07-04.48.04:509][897]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
