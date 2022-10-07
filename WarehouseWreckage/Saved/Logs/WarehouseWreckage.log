@@ -1561,3 +1561,28 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.10.07-02.10.29:458][392]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.102
 [2022.10.07-02.12.07:548][531]BlueprintLog: New page: Compile Main
 [2022.10.07-02.12.07:628][531]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2022.10.07-02.20.56:692][784]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2022.10.07-02.20.56:737][784]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Main_Auto3
+[2022.10.07-02.20.56:737][784]LogSavePackage: Moving '../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Saved/Main_Auto32627331F4DF0040265A2AC926559903D.tmp' to '../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Saved/Autosaves/Game/Maps/Main_Auto3.umap'
+[2022.10.07-02.20.56:746][784]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Main' took 0.111
+[2022.10.07-02.20.56:746][784]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.111
+[2022.10.07-02.21.22:692][879]BlueprintLog: New page: Compile Main
+[2022.10.07-02.21.22:774][879]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.10.07-02.21.25:778][226]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.10.07-02.21.25:832][226]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.07-02.21.25:879][226]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.10.07-02.21.25:918][226]LogSavePackage: Moving output files for package: /Game/Maps/Main
+[2022.10.07-02.21.25:918][226]LogSavePackage: Moving '../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Saved/MainCD3C83A3496C1550C9E4CB86EF70BE9D.tmp' to '../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Content/Maps/Main.umap'
+[2022.10.07-02.21.25:928][226]LogFileHelpers: No new changes to save!
+[2022.10.07-02.21.25:928][226]LogFileHelpers: Saving map 'Main' took 0.096
+[2022.10.07-02.21.25:945][226]AssetCheck: New page: Asset Save: Main
+[2022.10.07-02.21.25:945][226]LogContentValidation: Display: Validating World /Game/Maps/Main.Main
+[2022.10.07-02.28.03:452][293]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.10.07-02.28.03:515][293]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.07-02.28.03:559][293]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.10.07-02.28.03:597][293]LogSavePackage: Moving output files for package: /Game/Maps/Main
+[2022.10.07-02.28.03:598][293]LogSavePackage: Moving '../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Saved/MainD8F964AD401CEA75999078BADDB58628.tmp' to '../../../../../../Git/UE5_02_Warehouse-Wreckage/WarehouseWreckage/Content/Maps/Main.umap'
+[2022.10.07-02.28.03:607][293]LogFileHelpers: No new changes to save!
+[2022.10.07-02.28.03:607][293]LogFileHelpers: Saving map 'Main' took 0.093
+[2022.10.07-02.28.03:623][293]AssetCheck: New page: Asset Save: Main
+[2022.10.07-02.28.03:623][293]LogContentValidation: Display: Validating World /Game/Maps/Main.Main
